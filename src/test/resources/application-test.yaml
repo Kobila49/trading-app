@@ -1,0 +1,3 @@
+trading:
+  app:
+    timeoutInSeconds: 3
